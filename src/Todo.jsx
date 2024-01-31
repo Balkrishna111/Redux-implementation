@@ -24,7 +24,7 @@ const Todo = () => {
           className='text-gray-600 text-xl underline font-bold'
           htmlFor='input'
         >
-          Enter your Todo
+          Enter your Todo Here.
         </label>
         <div className='flex gap-4 w-full justify-center items-center'>
           <input
